@@ -4,6 +4,6 @@
 - 🌱 Aprofundando meus conhecimentos em React ...
 - 👯 Buscando oportunidade fullstack jr ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehdev)](https://github.com/felipehdev/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehdev)](https://github.com/felipehdev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipehdev&hide=issues)](https://github.com/felipehdev/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipehdev&layout=compact)](https://github.com/felipehdev/github-readme-stats)
 
